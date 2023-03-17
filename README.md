@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <div id="header" align="center">
-  <img src="githublogo.png" width="100>
+  <img src="https://raw.githubusercontent.com/KingTechnician/KingTechnician/main/githublogo.png?token=GHSAT0AAAAAACAF5NDCZGIOXEVKXRRMGADQZAUZHFA" width="100>
 </div>
 
 
