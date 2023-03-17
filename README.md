@@ -43,9 +43,9 @@ I am Isaiah Freeman, a junior full stack engineer.
 
 ### :fire: My GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?userKingTechnician&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KingTechnician&theme=dark)](https://git.io/streak-stats)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingTechnician&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
