@@ -21,12 +21,10 @@
 
 ### Who Am I?
 
-I am Isaiah Freeman, a junior full stack engineer.
+I am Isaiah Freeman, a graduate student and independent research.
 
  - 💙 I have a passion for creating software that can make a positive impact on others.
- - 💻: As a Stanford University Innovation Fellow, I want to combine my software skills with design thinking to create valuable tools.
- - 🔧  I'm experienced with mobile (Android) and web development (React, Flask) as well as Machine Learning (Sklearn, Tensorflow), but I am looking to expand my knowledge in new languages and frameworks.
- - ⚡ In my spare time, I focus both on personal projects and developing my own software consulting business.
+ - 💻 My main specialization is in natural language processing, specifically in the content analysis space (text classification) and most recently in the multimodal space (specifically video anomaly detection.
 
 ### :hammer_and_wrench: Languages and Tools:
 
